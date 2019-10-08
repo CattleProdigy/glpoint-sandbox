@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# Typical CMake Build
+build
+
+# ImGui sprinkling
+*.ini
